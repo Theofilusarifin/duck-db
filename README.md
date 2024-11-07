@@ -1,7 +1,5 @@
 # DuckDB with Ibis
 
-![DuckDB Logo](https://duckdb.org/img/duckdb_logo.png) ![Ibis Logo](https://ibis-project.org/static/img/ibis_logo.png)
-
 ## Introduction
 
 **DuckDB** is an in-process SQL OLAP database management system designed for efficient analytical query processing. **Ibis** is a Python data analysis framework that provides a pandas-like interface for interacting with various backend databases, including DuckDB.
